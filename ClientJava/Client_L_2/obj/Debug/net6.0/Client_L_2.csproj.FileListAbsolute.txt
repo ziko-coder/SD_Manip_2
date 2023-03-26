@@ -1,0 +1,15 @@
+E:\DS_Lectures\Client_L_2\Client_L_2\bin\Debug\net6.0\Client_L_2.exe
+E:\DS_Lectures\Client_L_2\Client_L_2\bin\Debug\net6.0\Client_L_2.deps.json
+E:\DS_Lectures\Client_L_2\Client_L_2\bin\Debug\net6.0\Client_L_2.runtimeconfig.json
+E:\DS_Lectures\Client_L_2\Client_L_2\bin\Debug\net6.0\Client_L_2.dll
+E:\DS_Lectures\Client_L_2\Client_L_2\bin\Debug\net6.0\Client_L_2.pdb
+E:\DS_Lectures\Client_L_2\Client_L_2\obj\Debug\net6.0\Client_L_2.csproj.AssemblyReference.cache
+E:\DS_Lectures\Client_L_2\Client_L_2\obj\Debug\net6.0\Client_L_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\DS_Lectures\Client_L_2\Client_L_2\obj\Debug\net6.0\Client_L_2.AssemblyInfoInputs.cache
+E:\DS_Lectures\Client_L_2\Client_L_2\obj\Debug\net6.0\Client_L_2.AssemblyInfo.cs
+E:\DS_Lectures\Client_L_2\Client_L_2\obj\Debug\net6.0\Client_L_2.csproj.CoreCompileInputs.cache
+E:\DS_Lectures\Client_L_2\Client_L_2\obj\Debug\net6.0\Client_L_2.dll
+E:\DS_Lectures\Client_L_2\Client_L_2\obj\Debug\net6.0\refint\Client_L_2.dll
+E:\DS_Lectures\Client_L_2\Client_L_2\obj\Debug\net6.0\Client_L_2.pdb
+E:\DS_Lectures\Client_L_2\Client_L_2\obj\Debug\net6.0\Client_L_2.genruntimeconfig.cache
+E:\DS_Lectures\Client_L_2\Client_L_2\obj\Debug\net6.0\ref\Client_L_2.dll
